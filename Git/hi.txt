@@ -1,0 +1,11 @@
+class job
+{
+public static void main ()
+{
+int a,b ;
+a=10 
+b=5
+int c=a+b;
+ System.out.println(c);
+}
+}
